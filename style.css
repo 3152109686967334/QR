@@ -1,0 +1,39 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+.qr{
+  display:none;
+}
+
+/* .content{
+  height:260px;
+  transition: height 0.2s ease;
+  
+}
+.content .qr{
+  
+  pointer-events:none;
+}
+.content {
+  height:530px;
+}
+.content .qr{
+  opacity:1;
+  pointer-events:auto;
+  transition:opacity 0.5s 0.05s ease;
+  
+} */
+.main-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20vw;
+  height: 70vh;
+  margin: 0;
+  border-radius: 30px;
+  transform: translate(-50%, -50%);
+  background-color: #264757;
+}
+
